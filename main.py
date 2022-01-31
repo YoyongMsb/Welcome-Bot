@@ -11,19 +11,19 @@ Pr0fess0r_99= Client(
 
 @Pr0fess0r_99.on_message(filters.command("start"))
 async def start(client: Pr0fess0r_99, update):
-    start_msg = "👋Hy {}, Iam Simple Auto Welcome Bot\n\nBot Owner Only /admin\n\nMaintained By @Mo_Tech_YT"
+    start_msg = "👋Hai {}, Kami Pea Masamba\n\nBot Owner Only /admin\n\nMaintained By @RequestMovie84"
     bot_username = await client.get_me()
-    link = "PR0FESS0R-99/Auto-Welcome-Bot"
+    link = "YoyongMsb/Welcome-Bot"
     reply_markup = InlineKeyboardMarkup(
         [             
             [
                 InlineKeyboardButton
                     (
-                         "🤖More Bots", url="t.me/MT_Botz"
+                         "🤖More Movie", url="t.me/Collection_MovieTerbaik"
                     ),
                 InlineKeyboardButton
                     (
-                         "💡Open Source", url="https://github.com/{link}" # PR0FESS0R-99/Auto-Welcome-Bot
+                         "💡Open Source", url="https://github.com/{link}" # YoyongMsb/Welcome-Bot
                     )
             ],   
             [
@@ -42,7 +42,7 @@ async def start(client: Pr0fess0r_99, update):
 @Pr0fess0r_99.on_message(filters.private & filters.command("admin"))
 async def admin(bot: Pr0fess0r_99, update):
     # Heroku Support
-    user = "👋Hey {}, \n You are not the deploy of this bot"
+    user = "👋Hei {}, \n You are not the deploy of this bot"
     run = "WxJ3G7NBb4c" # https://github.com/PR0FESS0R-99/Auto-Welcome-Bot
     api_key = os.environ.get("APP_NAME", "AutoWelcomeBot")
     DEPLOY = bool(os.environ.get("HOSTED"))
@@ -98,8 +98,8 @@ async def auto_welcome(bot: Pr0fess0r_99, msg: Message):
     id = msg.from_user.id
     group_name = msg.chat.title
     group_username = msg.chat.username
-    name_button = "🔰 JOIN NOW 🔰"
-    link_button = "t.me/Mo_tech_YT"
+    name_button = "🔰 RATE SUBTITLE KAMI 🔰"
+    link_button = "https://subscene.com/u/1271292"
     button_name = os.environ.get("WELCOME_BUTTON_NAME", name_button)
     button_link = os.environ.get("WELCOME_BUTTON_LINK", link_button)
     welcome_text = f"Hey {mention}\nWelcome To {group_name}"
@@ -142,6 +142,6 @@ async def auto_welcome(bot: Pr0fess0r_99, msg: Message):
 
 print("""Auto Welcome Bot Started
 
-Maintained By @Mo_Tech_YT""")
+Maintained By @RequestMovie84""")
 
 Pr0fess0r_99.run()
