@@ -3,25 +3,25 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/PR0FESS0R-99/Auto-Welcome-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/PR0FESS0R-99/Auto-Welcome-Bot?style=social">
+  <a href="https://github.com/YoyongMsb/Welcome-Bot/stargazers">
+    <img src="https://github.com/YoyongMsb/Welcome-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/PR0FESS0R-99/Auto-Welcome-Bot/fork">
+  <a href="https://github.com/YoyongMsb/Welcome-Bot/fork">
     <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Auto-Welcome-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-<img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="20px"> Hey [Mo Tech](https://Telegram.dog/Mo_Tech_Group),
+<img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="20px"> Hey [Mo Tech](https://t.me/RequestMovie84),
 
 Iam Simple Auto Welcome Bot
 Jest Add Me to your Chat and See My Power
 
-[/admin](https://github.com/PR0FESS0R-99/Auto-Welcome-Bot/blob/dec040ea164fcbd7f6b3304e399acd8f9abd7486/main.py#L55) Bot Master Only
+[/admin](https://github.com/YoyongMsb/Welcome-Bot/blob/dec040ea164fcbd7f6b3304e399acd8f9abd7486/main.py#L55) Bot Master Only
 
-Maintained By [Mo Tech](https://Telegram.dog/Mo_Tech_YT)
+Maintained By [CMT](https://t.me/RequestMovie84)
 
 ----
 ----
@@ -50,7 +50,7 @@ Maintained By [Mo Tech](https://Telegram.dog/Mo_Tech_YT)
 
 `{first}` : User First Name
 
-Eg :- `👋Hy {first}`
+Eg :- `👋Hei {first}`
 
 ----
 
@@ -95,9 +95,9 @@ Eg :- `👋Hy {first}`
 
 #### Config Vars
 
-`API_ID` : [Watch Tutorial Video](https://youtu.be/5eEsvLAKVc0)
+`API_ID` : [Buat Disini](@scrapmanbot)
 
-`API_HASH` : [Watch Tutorial Video](https://youtu.be/5eEsvLAKVc0)
+`API_HASH` : [Buat Disini](@scrapmanbot)
 
 `APP_NAME` : (Herouk or Railway) App Name
 
@@ -105,7 +105,7 @@ Eg :- `👋Hy {first}`
 
 `HOSTED` : If you want to deploy in tha Heroku, do not enter anything, If you want to deploy in the Railway app, enter `True`
 
-`OWNER_ID` : Bot Owner Id From [@MT_Id_Bot](https://telegram.dog/MT_ID_Bot)
+`OWNER_ID` : Bot Owner Id From [@MissRose_bot](https://telegram.dog/MissRose_bot)
 
 `WELCOME_TEXT` : Set Custom Welcome Message 
 
@@ -122,7 +122,7 @@ Eg :- `👋Hy {first}`
 
 [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-[Muhammed Rk](https://github.com/PR0FESS0R-99/Auto-Welcome-Bot)
+[Pea Masamba](https://github.com/YoyongMsb/Welcome-Bot)
 
 
 
