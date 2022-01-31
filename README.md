@@ -14,7 +14,7 @@
   </a>  
 </p>
 
-<img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="20px"> Hey [Mo Tech](https://t.me/RequestMovie84),
+<img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="20px"> Hey [CMT](https://t.me/RequestMovie84),
 
 Iam Simple Auto Welcome Bot
 Jest Add Me to your Chat and See My Power
