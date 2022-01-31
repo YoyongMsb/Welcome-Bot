@@ -1,7 +1,7 @@
 {
     "name": "Auto Welcome Bot",
-    "description": "iam Id Bot @MRK_YT",
-    "logo": "https://telegra.ph/file/c4a3eea0c20318b6d88b6.jpg",
+    "description": "iam Id Bot @RequestMovie84",
+    "logo": "https://telegra.ph/file/797e2fd172b1b65bad264.jpg",
     "keywords": [
         "Telegram",
         "Custom",
@@ -10,17 +10,17 @@
         "Welcome", 
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/Auto-Welcome-Bot",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://www.comelmuewa84.eu.org/",
+    "repository": "https://github.com/YoyongMsb/Welcome-Bot",
+    "success_url": "https://www.youtube.com/channel/UCOx4FMS6VLtVxqHQHdoAxbQ",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Your APP_ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP_ID From @scrapmanbot",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API_Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your API_Hash From @scrapmanbot",
             "value": ""
         },
         "APP_NAME": {
@@ -38,7 +38,7 @@
             "required": false
         },
         "OWNER_ID": {
-            "description": "Your Bot Token From @MT_ID_Bot",
+            "description": "Your Bot Token From @MissRose_bot",
             "value": ""
         },
         "WELCOME_TEXT": {
